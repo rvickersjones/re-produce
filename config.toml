@@ -1,5 +1,5 @@
 title = "re:produce"
-baseURL = "https://examplesite.com"
+baseURL = "https://reproduce.netlify.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown", "_files$", "_cache$"]
